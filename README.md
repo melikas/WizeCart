@@ -115,3 +115,7 @@ Notes
 - LangChain constructs are used throughout (Agents, Tools, Chains, Memory).
 
 See `infra/deployment_notes.md` for deployment guidance.
+
+---
+به‌روزرسانی: ۲۰ نوامبر ۲۰۲۵ — README به‌روزرسانی و آماده‌ی ارسال (push)
+Last updated: 2025-11-20 — README updated and ready to push
