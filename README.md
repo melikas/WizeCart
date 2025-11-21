@@ -1,36 +1,27 @@
-# Real-Time Shopping Personal Assistant (LangChain ADK)
+# Real-Time Shopping Personal Assistant (LangChain ADK)-Concierge Agents
 
-Description
 
-This capstone project builds a "Real-Time Shopping Personal Assistant" — a lightweight, practical agent designed to help people make smarter buying choices in the moment. When you add items to a cart, drop something onto a wishlist, or get a price alert, the assistant gathers context (price history, competing sellers, reviews, coupons, stock) and uses several specialized agents to produce a single, clear recommendation: "BUY", "NOT BUY", or "DEFER / WAIT." The goal is to save time, reduce impulse spending, and make decisions more confident and evidence-based.
+Our project builds a "Real-Time Shopping Personal Assistant" a lightweight, practical agent designed to help people make smarter buying choices in the moment. When you add items to a cart, drop something onto a wishlist, or get a price alert, the assistant gathers context (price history, competing sellers, reviews, coupons, stock) and uses several specialized agents to produce a single, clear recommendation: "BUY", "NOT BUY", or "DEFER / WAIT." The goal is to save time, reduce impulse spending, and make decisions more confident and evidence-based.
 
-In conversational terms: this assistant acts like a knowledgeable friend who knows your budget, your favorite brands, and what deals are active. Instead of you juggling dozens of tabs or spreadsheets, the assistant checks the numbers, reads the signals, and gives one short, actionable suggestion — plus the evidence if you want to look deeper.
+this assistant acts like a knowledgeable friend who knows your budget, your favorite brands, and what deals are active. Instead of you juggling dozens of tabs or spreadsheets, the assistant checks the numbers, reads the signals, and gives one short, actionable suggestion, plus the evidence if you want to look deeper.
 
-Problems it solves
+Problems for us everyday 
 - Time wasted manually comparing prices and reading many reviews.
 - Uncertainty about whether a current price is actually a good deal.
 - Overspending or buyer's remorse due to impulse purchases.
 
-Impact
+The Impact of WizeCart
 - Saves time and money for everyday shoppers.
 - Increases purchase satisfaction and reduces returns for retailers.
 - Personalizes recommendations over time using long-term memory and user preferences.
 
-Concierge Agents
-
-Concierge agents act like a personal assistant for everyday life. They automate routine tasks such as meal planning and shopping lists, travel planning and reservations, and other repetitive chores. The idea is to remove friction from daily tasks and make small decisions for the user based on predefined preferences and rules.
+Our agents act like a personal assistant for everyday life. They automate routine tasks such as meal planning and shopping lists, travel planning and reservations, and other repetitive chores. The idea is to remove friction from daily tasks and make small decisions for the user based on predefined preferences and rules.
 
 Shopping example: a concierge agent could generate your weekly grocery list from your dietary preferences, match each item to the best sellers and available coupons, and either place orders automatically at the right time or notify you when a desired item goes on sale.
 
-Tone & audience: this README uses a casual, user-friendly tone to explain the value of the project and how it can make everyday life easier. The rest of the document covers technical details, how to run the demo, and the system architecture.
+instead of spending time juggling tabs and spreadsheets to figure out whether a sale is actually a good deal or whether you can afford that gadget, this assistant does the heavy lifting. It checks price history, compares sellers, looks for coupons, skims reviews for sentiment, and takes your budget and preferences into account. Then it gives you a short, actionable suggestion — and the evidence behind it if you want to dig in.
 
-Casual English Description
-
-Think of this project as a friendly shopping sidekick that lives in your browser or phone — quietly watching your cart, wishlist, price alerts, and past purchases, then whispering a clear recommendation: "Buy it now", "Don't buy", or "Wait for a deal." It's designed for everyday people who hate hopping between sites to compare prices or digging through reviews to see if a product is worth it.
-
-In plain terms: instead of spending time juggling tabs and spreadsheets to figure out whether a sale is actually a good deal or whether you can afford that gadget, this assistant does the heavy lifting. It checks price history, compares sellers, looks for coupons, skims reviews for sentiment, and takes your budget and preferences into account. Then it gives you a short, actionable suggestion — and the evidence behind it if you want to dig in.
-
-Who benefits?
+Who benefits from our agent?
 - Busy shoppers who want to make smarter, faster buying decisions.
 - People on a budget who need to avoid impulse overspending.
 - Power users who want automated price-watching and coupon hunting.
@@ -39,12 +30,6 @@ Why this matters
 - Saves time: no more manual price hunting or reading dozens of reviews.
 - Saves money: finds better deals, applicable coupons, and suggests cheaper alternatives.
 - Reduces regret: recommends purchases based on both personal finance and real product signals, so users are less likely to return items.
-
-Concierge Agents (short)
-
-These are agents that act like a personal concierge for everyday life — they can plan shopping lists, suggest alternatives, track deals, or automate the ordering steps when rules match your preferences. For shopping specifically, a concierge agent might build your weekly grocery list, match items to coupons, and either auto-order on your behalf or ping you when a good deal shows up.
-
-The rest of this README gives the technical overview, setup steps, and the project layout so you can run the demo or extend the system.
 
 Example User Flows (step-by-step scenarios)
 
@@ -119,3 +104,5 @@ See `infra/deployment_notes.md` for deployment guidance.
 ---
 به‌روزرسانی: ۲۰ نوامبر ۲۰۲۵ — README به‌روزرسانی و آماده‌ی ارسال (push)
 Last updated: 2025-11-20 — README updated and ready to push
+
+
