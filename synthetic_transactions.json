@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "evt_0001",
+    "type": "cart_add",
+    "timestamp": "2025-11-20T10:00:00Z",
+    "product_id": "prod_1001",
+    "product_name": "Wireless Headphones Model X",
+    "price": 129.99,
+    "user_id": "user_001"
+  },
+  {
+    "event_id": "evt_0002",
+    "type": "wishlist_add",
+    "timestamp": "2025-11-19T12:00:00Z",
+    "product_id": "prod_2002",
+    "product_name": "Smart Coffee Maker",
+    "price": 89.5,
+    "user_id": "user_002"
+  }
+]
